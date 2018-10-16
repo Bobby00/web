@@ -603,15 +603,15 @@ section
 }
 .home_title
 {
-	font-size: 60px;
-	font-weight: 600;
+	font-size: 70px;
+	font-weight: 500;
 	color: #FFFFFF;
 	line-height: 1.2;
 }
 .home_text
 {
 	max-width: 750px;
-	font-size: 14px;
+	font-size: 20px;
 	color: #FFFFFF;
 	line-height: 2.14;
 	margin-left: auto;
